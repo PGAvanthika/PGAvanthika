@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Avanthika</h1>
-<h3 align="center"> Software Developer & AI Enthusiast| Curious Mind Exploring ML, Full-Stack Development & Predictive Systems</h3>
+<h3 align="center"> Software Developer & AI Enthusiast | Curious Mind Exploring ML, Full-Stack Development</h3>
 
 ---
 
@@ -59,16 +59,4 @@
 
 ---
 
-### 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=avanthika-pg&show_icons=true&theme=radical" alt="stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avanthika-pg&layout=compact&theme=radical" alt="langs"/>
-</p>
-
----
-
-### ✨ Fun Fact:
-_I design intuitive UIs and build robust backends. Let's collaborate on impactful digital experiences!_
 
