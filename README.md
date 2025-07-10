@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Avanthika</h1>
-<!-- <h3 align="center">Creative Full-Stack Developer | UI/UX Enthusiast | Open to opportunities</h3> ->
+<h3 align="center">Creative Full-Stack Developer | UI/UX Enthusiast | Open to Opportunities</h3>
 
 ---
 
 ### 🌐 Connect with me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/avanthika-pg/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/avanthika-pg/" target="blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
 </p>
 
 ---
@@ -60,12 +62,13 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=avanthika-pg&show_icons=true&theme=radical" alt="stats"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avanthika-pg&layout=compact&theme=radical" alt="langs"/>
 </p>
 
 ---
 
 ### ✨ Fun Fact:
 _I design intuitive UIs and build robust backends. Let's collaborate on impactful digital experiences!_
+
