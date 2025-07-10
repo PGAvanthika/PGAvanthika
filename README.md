@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Avanthika</h1>
-<h3 align="center">Creative Full-Stack Developer | UI/UX Enthusiast | Open to Opportunities</h3>
+<h3 align="center"> Software Developer & AI Enthusiast| Curious Mind Exploring ML, Full-Stack Development & Predictive Systems</h3>
 
 ---
 
